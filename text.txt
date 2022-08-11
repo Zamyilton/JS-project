@@ -1,0 +1,14 @@
+git version
+git init
+git add
+git status
+git config help
+git commit -m "message"
+git remote add origin link
+git branch -M origin main
+git remote -v
+git remote rm origin 
+
+
+git version
+git config help
