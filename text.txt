@@ -12,3 +12,7 @@ git remote rm origin
 
 git version
 git config help
+git add .
+git commit -m "done"
+git branch -M main
+git remote add origin https://github.com/Zamyilton/JS-project.git
